@@ -18,7 +18,11 @@
 
 
 代码C++
-(https://attach.52pojie.cn/forum/202503/19/144101uja0fwmgk0bbiaxa.png)
+
+代码部分借鉴了AI。
+
+[1](https://attach.52pojie.cn/forum/202503/19/144049kz6c0ww27x13cwwx.png)
+[2](https://attach.52pojie.cn/forum/202503/19/144101uja0fwmgk0bbiaxa.png)
 
 其中有一些疑问，就是我用飘云阁的注入工具没有注入成功不知道为什么，应该怎么注入？
 通过winapi删除注册表报错87，但是reg命令是可以删除的？
