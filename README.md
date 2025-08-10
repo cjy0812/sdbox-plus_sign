@@ -16,8 +16,7 @@
 通过openark或cheat engine修改SbieSvc.exe关键字符串，成功实现规避。
 因为一旦提示过 【您尝试使用的许可证已被封禁，这意味着它已因故失效。任何使用该许可证的企图都构成对其使用条款的违反！】，逻辑将会先走注册表中的计算机\HKEY_LOCAL_MACHINE\SECURITY\SBIE\里面的CertBlockList，所以需要删掉它（需提权）
 
-
-代码C++
+[代码C++](https://github.com/cjy0812/sdbox-plus_sign/blob/main/code.c)
 
 代码部分借鉴了AI。
 
